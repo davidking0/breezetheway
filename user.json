@@ -8,6 +8,7 @@
 	"password":"password1",
 	"trips": [
 		{"trip_id":"enter_id",
+		"Breezecard_id":"150",
 		"stop_enter_name":"Five Points",
 		"stop_enter_lat":54.664,
 		"stop_enter_long":86.2433,
