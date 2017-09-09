@@ -78,11 +78,18 @@
 		{"trip_id":"474","Breezecard_id":"101","Route_Type":"Rail","stop_enter_name":"NORTH SPRINGS STATION","stop_enter_lat":33.94495,"stop_enter_long":-84.3573,"stop_exit_name":"FIVE POINTS STATION","stop_exit_lat":33.75412,"stop_exit_long":-84.3919,"trip_date":"18Jun2017","trip_mileage":13.33372512,"trip_duration":25,"fare":2.5},
 		{"trip_id":"475","Breezecard_id":"101","Route_Type":"Rail","stop_enter_name":"FIVE POINTS STATION","stop_enter_lat":33.75412,"stop_enter_long":-84.3919,"stop_exit_name":"NORTH SPRINGS STATION","stop_exit_lat":33.94495,"stop_exit_long":-84.3573,"trip_date":"18Jun2017","trip_mileage":13.33372512,"trip_duration":25,"fare":2.5},
 		{"trip_id":"476","Breezecard_id":"101","Route_Type":"Bus","stop_enter_name":"NORTH SPRINGS STATION","stop_enter_lat":33.94495,"stop_enter_long":-84.3573,"stop_exit_name":"MANSELL RD@OLD ROSWELL RD","stop_exit_lat":34.04245,"stop_exit_long":-84.3258,"trip_date":"18Jun2017","trip_mileage":6.974090033,"trip_duration":30,"fare":2.5}]},
-	{"breezecard_id":"102","first_name":"Adam","last_name":"Clenney","dob":"22Jul1986","date_joined":"11Mar","username":"adamcl7","password":"fasetleader6","trips": [{}]},
-	{"breezecard_id":"103","first_name":"Juan","last_name":"Carrano","dob":"30Apr1989","date_joined":"14May2003","username":"jcarra","password":"d8night4","trips": [{}]},
-	{"breezecard_id":"104","first_name":"Hunter","last_name":"Sonnenberg","dob":"01Feb2000","date_joined":"14Oct2017","username":"huntberg","password":"sunizbright5","trips": [{}]},
-	{"breezecard_id":"105","first_name":"Will","last_name":"Hunnicutt","dob":"21Dec1998","date_joined":"24Sep2016","username":"whunni","password":"csmajor7","trips": [{}]},
-	{"breezecard_id":"106","first_name":"Ben","last_name":"Epsy","dob":"26Aug1983","date_joined":"30Jul2013","username":"bespy","password":"broccoli73","trips": [{}]},
-	{"breezecard_id":"107","first_name":"Mark","last_name":"Glass","dob":"04Jul1996","date_joined":"22Nov2007","username":"markgrass","password":"blondie33","trips": [{}]},
-	{"breezecard_id":"108","first_name":"Wills","last_name":"Crenshaw","dob":"09Jun1987","date_joined":"29Jul2004","username":"willscren","password":"notawill5","trips": [{}]}
-	]}
+	{"breezecard_id":"102","first_name":"Adam","last_name":"Clenney","dob":"22Jul1986","date_joined":"11Mar","username":"adamcl7","password":"fasetleader6","trips": [
+{}]},
+	{"breezecard_id":"103","first_name":"Juan","last_name":"Carrano","dob":"30Apr1989","date_joined":"14May2003","username":"jcarra","password":"d8night4","trips": [
+{}]},
+	{"breezecard_id":"104","first_name":"Hunter","last_name":"Sonnenberg","dob":"01Feb2000","date_joined":"14Oct2017","username":"huntberg","password":"sunizbright5","trips": [
+{}]},
+	{"breezecard_id":"105","first_name":"Will","last_name":"Hunnicutt","dob":"21Dec1998","date_joined":"24Sep2016","username":"whunni","password":"csmajor7","trips": [
+{}]},
+	{"breezecard_id":"106","first_name":"Ben","last_name":"Epsy","dob":"26Aug1983","date_joined":"30Jul2013","username":"bespy","password":"broccoli73","trips": [
+{}]},
+	{"breezecard_id":"107","first_name":"Mark","last_name":"Glass","dob":"04Jul1996","date_joined":"22Nov2007","username":"markgrass","password":"blondie33","trips": [
+{}]},
+	{"breezecard_id":"108","first_name":"Wills","last_name":"Crenshaw","dob":"09Jun1987","date_joined":"29Jul2004","username":"willscren","password":"notawill5","trips": [
+{}]}
+]}
