@@ -30,8 +30,6 @@ $.getJSON("db.json", function(json) {
     console.log(cumulativeMartaMoney);
     console.log(cumulativeCarMoney);
     
-    var totaltrips = document.getElementById("total-trips");
-    totaltrips.innerHTML = amountOfRides;
     var ctx = document.getElementById("canvas");
     var myChart = new Chart(ctx, {
         type: 'line',
