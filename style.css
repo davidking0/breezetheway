@@ -1,12 +1,12 @@
 #bloc-1 {
    background: linear-gradient(
   45deg,
-  #FFD700,
+  #3F78D9,
+  #3F78D9 30px,
   #FFD700 30px,
-  #EA7D20 30px,
+  #FFD700 60px,
   #EA7D20 60px,
-  #3F78D9 60px,
-    #3F78D9   90px,
+    #EA7D20   90px,
     #FFFFFF 90px
 ); 
 }
