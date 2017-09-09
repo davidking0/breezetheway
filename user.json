@@ -1,0 +1,23 @@
+{"user":[
+	{"breezecard_id":"enter_id",
+	"first_name":"John",
+	"last_name":"Doe",
+	"dob":"03MAR1996",
+	"date_joined":"01JAN2016",
+	"username":"jdoe",
+	"password":"password1",
+	"trips": [
+		{"trip_id":"enter_id",
+		"stop_enter_name":"Five Points",
+		"stop_enter_lat":54.664,
+		"stop_enter_long":86.2433,
+		"stop_exit_name":"Airport",
+		"stop_exit_lat":53.45435,
+		"stop_exit_long":54.242,
+		"trip_date":"08SEP2017",
+		"trip_mileage":0.5,
+		"trip_duration":15,
+		"fare":2.50} ]
+		} ]
+		}
+		
