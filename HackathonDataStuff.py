@@ -1,0 +1,37 @@
+file = open("Hackathon Data - user.csv","r")
+userFile = file.read()
+file.close()
+file = open("Hackathon Data - trips.csv","r")
+tripFile = file.read()
+file.close
+
+userAndTrip = []
+userAllLists = userFile.split("\n")
+tripAllLists = tripFile.split("\n")
+for i in userAllLists:
+    for x in tripAllLists:
+        if i[0] == x[1]:
+            userAndTrip.append(i + x)
+            print('{"user":[')
+            print('{"breezecard_id":"' + str(userAndTrip[0]) +'",')
+            print('"first_name":"' + str(userAndTrip[1]) +'",')
+            print('"last_name":"' + str(userAndTrip[2]) + '",')
+            print('"dob":"' + str(userAndTrip[3]) + '",')
+            print('"date_joined":"' + str(userAndTrip[4]) + '",')
+            print('"username":"' + str(userAndTrip[5]) + '",')
+            print('"password":"' + str(userAndTrip[6]) +'",')
+            print('"trips": [')
+            print('{"trip_id":"' + str(userAndTrip[7]) + '",')
+            print('"Breezecard_id":"' + str(userAndTrip[8]) + '",')
+            print('"stop_enter_name":"' + str(userAndTrip[9]) + '",')
+            print('"stop_enter_lat":' + str(userAndTrip[10]) +',')
+            print('"stop_enter_long":' + str(userAndTrip[11]) + ',')
+            print('"stop_exit_name":"' + str(userAndTrip[12]) + '",')
+            print('"stop_exit_lat":' + str(userAndTrip[13]) + ',')
+            print('"stop_exit_long":' + str(userAndTrip[14]) + ',')
+            print('"trip_date":"' + str(userAndTrip[15]) + '",')
+            print('"trip_mileage":' + str(userAndTrip[16]) + ',')
+            print('"trip_duration":' + str(userAndTrip[17]) + ',')
+            print('"fare":' + str(userAndTrip[18]) + '} ]')
+            print('} ]')
+            print('}')
